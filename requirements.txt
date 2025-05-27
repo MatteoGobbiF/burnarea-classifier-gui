@@ -1,0 +1,7 @@
+numpy
+rasterio
+matplotlib
+scikit-learn
+joblib
+tk
+geopre
