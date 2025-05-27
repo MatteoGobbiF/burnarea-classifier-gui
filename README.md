@@ -16,6 +16,8 @@ Built with:
 - Rasterio, NumPy, Scikit-learn for backend
 - PyInstaller for executable packaging
 
+> 📘 Detailed instructions and examples are included in the [project report (PDF)](./Report.pdf).
+
 ---
 
 ## 🖥️ Key Features
@@ -76,7 +78,11 @@ Case studies include:
 
 ## 📚 Report
 
-Read the full [project report (PDF)](./Report.pdf) for documentation, case studies, and implementation details.
+The [project report (PDF)](./Report.pdf) contains:
+
+- A complete description of the tool's development
+- Case studies using real satellite data
+- **Step-by-step instructions on how to use the application**
 
 ---
 
