@@ -34,7 +34,7 @@ Built with:
 
 ## 📦 Download
 
-👉 [Download the latest .exe from the Releases page](https://github.com/your-username/burnarea-classifier-gui/releases/latest)
+👉 [Download the latest .exe from the Releases page](https://github.com/MatteoGobbiF/burnarea-classifier-gui/releases/latest)
 
 ---
 
